@@ -1,0 +1,150 @@
+\begin{thebibliography}{10}
+
+\bibitem{BigDataIntro}
+{Barranco, R. (2012). ¿Qué es Big Data? Recuperado de}.
+\newblock
+  \url{https://www.ibm.com/developerworks/ssa/local/im/que-es-big-data/}.
+
+\bibitem{BigDataVisualization}
+{Wang, L., Wang, G. and Alexander, C.A. (2015). Big Data and Visualization:
+  Methods, Challenges and Technology Progress. Digital Technologies, Vol. 1, 1,
+  pp 33-38}.
+
+\bibitem{OverviewBigDataVis}
+{Patil, S.S. (2016). Overview of BigData Visualization. International Journal
+  of Advanced Networking and Applications (IJANA), pp 436-438}.
+
+\bibitem{MRHadoopLibro}
+{White, T. (2015). Map Reduce. En T. White (Ed.), Hadoop. The Definitive Guide,
+  pp. 19-37. California, EE.UU. O'Reilly.}
+
+\bibitem{HadoopInicial}
+{Hadoop Web Site (sin fecha). Recuperado de}.
+\newblock \url{http://hadoop.apache.org/}.
+
+\bibitem{HDFSHadoopLibro}
+{White, T. (2015). The Hadoop Distributed Filesystem. En T. White (Ed.),
+  Hadoop. The Definitive Guide, pp. 43-79. California, EE.UU. O'Reilly.}
+
+\bibitem{HadoopHDFS}
+{Hadoop HDFS Architecture (2013). Recuperado de}.
+\newblock \url{https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html}.
+
+\bibitem{SparkInicial}
+{Spark Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://spark.apache.org/}.
+
+\bibitem{SparkClusterOverview}
+{Cluster Mode Overview (sin fecha). Recuperado de}.
+\newblock \url{https://spark.apache.org/docs/latest/cluster-overview.html}.
+
+\bibitem{SparkRDD}
+{Spark. Programming Guide (sin fecha). Recuperado de}.
+\newblock
+  \url{https://spark.apache.org/docs/latest/rdd-programming-guide.html}.
+
+\bibitem{SparkRDDFuncionamiento}
+{Kuntamukkala, A. (sin fecha). Apache Spark. An Engine for Large-Scale Data
+  Processing. Recuperado de}.
+\newblock \url{https://dzone.com/refcardz/apache-spark}.
+
+\bibitem{MongoDBNoSQL}
+{ACENS. Bases de datos NoSQL. Qué son y tipos que nos podemos encontrar
+  (2014). Recuperado de}.
+\newblock
+  \url{https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf}.
+
+\bibitem{MongoDBRanking}
+{BD-Engines Ranking (2017). Recuperado de}.
+\newblock \url{https://db-engines.com/en/ranking}.
+
+\bibitem{MongoInicial}
+{MongoDB Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://www.mongodb.com/es}.
+
+\bibitem{modeloIncremental}
+{Tavo (2011). Análisis y diseño de sistemas - Modelos para el desarrollo de
+  software. Recuperado de}.
+\newblock
+  \url{http://osc.co.cr/analisis-y-diseno-de-sistemas-modelos-para-el-desarrollo-de-software/}.
+
+\bibitem{ScalaInicial}
+{Scala Web Site (sin fecha). Recuperado de}.
+\newblock \url{http://docs.scala-lang.org/tour/tour-of-scala.html}.
+
+\bibitem{NodeJSInicial}
+{NodeJS Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://nodejs.org/es/}.
+
+\bibitem{NodeJSAbout}
+{Acerca de NodeJS (sin fecha). Recuperado de}.
+\newblock \url{https://nodejs.org/es/about/}.
+
+\bibitem{NodeJSEventLoop}
+{Pillai, P. (2016). NodeJS Event Loop. Recuperado de}.
+\newblock
+  \url{https://www.linkedin.com/pulse/nodejs-event-loop-padmanabhan-pillai}.
+
+\bibitem{D3JSGithub}
+{D3JS Github (sin fecha). Recuperado de}.
+\newblock \url{https://github.com/d3/d3/wiki}.
+
+\bibitem{GentelellaGithub}
+{Gentelella Github (sin fecha). Recuperado de}.
+\newblock \url{https://github.com/puikinsh/gentelella}.
+
+\bibitem{DockerInicial}
+{Docker Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://www.docker.com/}.
+
+\bibitem{LucidchartInicial}
+{Lucidchart Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://www.lucidchart.com/}.
+
+\bibitem{TexstudioInicial}
+{TeXstudio Web Site (sin fecha). Recuperado de}.
+\newblock \url{http://www.texstudio.org/}.
+
+\bibitem{SparkMongoConexion}
+{MongoDB Connector for Spark (2016). Recuperado de}.
+\newblock \url{https://docs.mongodb.com/spark-connector/master/}.
+
+\bibitem{HadoopRestful}
+{Hadoop WebHDFS REST API (2017). Recuperado de}.
+\newblock
+  \url{https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/WebHDFS.html}.
+
+\bibitem{NodeCmd}
+{Node-Cmd Package (sin fecha). Recuperado de}.
+\newblock \url{https://www.npmjs.com/package/node-cmd}.
+
+\bibitem{MongooseInicial}
+{Mongoose Web Site (sin fecha). Recuperado de}.
+\newblock \url{http://mongoosejs.com/}.
+
+\bibitem{D3JSGallery}
+{D3JS Gallery (sin fecha). Recuperado de}.
+\newblock \url{https://github.com/d3/d3/wiki/Gallery}.
+
+\bibitem{PugInicial}
+{Pug Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://pugjs.org/api/getting-started.html}.
+
+\bibitem{InstalacionHadoopSparkNodos}
+{Parra-Royón, M.J. (2017). Instalación y despliegue para Big Data UPNavarra.
+  Recuperado de}.
+\newblock \url{https://github.com/manuparra/Instalacion-BigData-UPNavarra}.
+
+\bibitem{SwaggerInicial}
+{Swagger Web Site (sin fecha). Recuperado de}.
+\newblock \url{https://swagger.io/}.
+
+\bibitem{ForeverInicial}
+{Forever package (sin fecha). Recuperado de}.
+\newblock \url{https://github.com/foreverjs/forever}.
+
+\bibitem{ForeverMonitor}
+{Forever monitor (sin fecha). Recuperado de}.
+\newblock \url{https://github.com/foreverjs/forever-monitor}.
+
+\end{thebibliography}

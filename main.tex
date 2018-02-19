@@ -1,0 +1,110 @@
+\documentclass[a4paper,11pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{cite}
+\usepackage{url}
+
+\decimalpoint
+\usepackage{dcolumn}
+
+\usepackage{colortbl,longtable}
+\usepackage[stable]{footmisc}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LO]{\leftmark} % En las páginas impares, parte izquierda del encabezado, aparecerá el nombre de capítulo
+\fancyhead[RE]{\rightmark} % En las páginas pares, parte derecha del encabezado, aparecerá el nombre de sección
+\fancyhead[RO,LE]{\thepage} % Números de página en las esquinas de los encabezados
+\renewcommand{\chaptermark}[1]{\markboth{\textbf{\thechapter. #1}}{}} % Formato para el capítulo: N. Nombre
+\renewcommand{\sectionmark}[1]{\markright{\textbf{\thesection. #1}}} % Formato para la sección: N.M. Nombre
+
+\renewcommand{\headrulewidth}{0.6pt} % Ancho de la línea horizontal bajo el encabezado
+\renewcommand{\footrulewidth}{0.6pt} % Ancho de la línea horizontal sobre el pie (que en este ejemplo está vacío)
+\setlength{\headheight}{1.5\headheight} % Aumenta la altura del encabezado en una vez y media
+
+
+%\RequirePackage{verbatim}
+%\usepackage{fancyhdr}
+%\usepackage{graphicx}
+%\usepackage{afterpage}
+%\usepackage{longtable}
+%\usepackage[pdfborder={000}]{hyperref} %referencia
+
+
+% ********************************************************************
+% Re-usable information
+% ********************************************************************
+\newcommand{\myTitle}{Visualización de datos en procesamiento masivo de Big Data\xspace}
+\newcommand{\myDegree}{Grado en Ingeniería Informáticaxspace}
+\newcommand{\myName}{Adrián Medina González (alumno)\xspace}
+\newcommand{\myProf}{José Manuel Benítez Sánchez (tutor1)\xspace}
+\newcommand{\myOtherProf}{Manuel Jesús Parra Royón (tutor2)\xspace}
+\newcommand{\myFaculty}{Escuela Técnica Superior de Ingenierías Informática y de
+	Telecomunicación\xspace}
+\newcommand{\myFacultyShort}{E.T.S. de Ingenierías Informática y de
+	Telecomunicación\xspace}
+\newcommand{\myDepartment}{Departamento de Ciencias de la Computación e Inteligencia Artificial\xspace}
+\newcommand{\myDepartmentShort}{Departamento de DECSAI\xspace}
+\newcommand{\myUni}{\protect{Universidad de Granada}\xspace}
+\newcommand{\myLocation}{Granada\xspace}
+\newcommand{\myTime}{\today\xspace}
+\newcommand{\myVersion}{Version 0.1\xspace}
+
+\usepackage{pdfpages}
+
+%Para conseguir que en las páginas en blanco no ponga cabecerass
+\makeatletter
+\def\clearpage{%
+	\ifvmode
+	\ifnum \@dbltopnum =\m@ne
+	\ifdim \pagetotal <\topskip
+	\hbox{}
+	\fi
+	\fi
+	\fi
+	\newpage
+	\thispagestyle{empty}
+	\write\m@ne{}
+	\vbox{}
+	\penalty -\@Mi
+}
+\makeatother
+
+%\setlength{\parindent}{1.5em}
+%\setlength{\parskip}{5pt}
+
+%\setlength{\parskip}{1em} 
+%\renewcommand{\baselinestretch}{2.0}
+
+\setlength{\parskip}{15pt plus 1pt minus 2pt}
+
+\begin{document}
+
+\include{./portada/portada}
+\include{./prefacio/prefacio}
+
+\tableofcontents
+
+
+\include{./capitulos/01_Introduccion}
+\include{./capitulos/02_ComputacionBigData}
+\include{./capitulos/03_IngenieriaSoftware}
+\include{./capitulos/04_EspecificacionRequisitos}
+\include{./capitulos/05_DisenoSistema}
+\include{./capitulos/06_MetodosVisualizacion}
+\include{./capitulos/07_Conclusiones}
+\include{./capitulos/A_ListadoFunciones}
+
+\listoffigures
+
+\backmatter
+% bibliography, glossary and index would go here.
+
+%\bibliographystyle{jtbnew}
+\bibliographystyle{unsrt}
+\bibliography{./bibliografia/bibliografia}
+
+\end{document}

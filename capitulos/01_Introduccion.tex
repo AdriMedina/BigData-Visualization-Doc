@@ -1,0 +1,31 @@
+\chapter{Introducción}
+
+\section{Motivación}
+
+En todo el mundo se recopila y almacena una gran cantidad de información, a través de las nuevas tecnologías, nuevos productos, aplicaciones, etc, la conectividad entre personas de cualquier parte del planeta, o incluso, la comunicación entre dispositivos. Todo ello, genera una cantidad de información de dimensiones que rondan los \textit{petabytes} o los \textit{exabytes}, teniendo en cuenta además, que la procedencia de los datos es muy variable y, por tanto, la estructura en la que se recibe. 
+
+Poder controlar la información y la posibilidad de utilizarla en su beneficio, es el pilar principal de todas las grandes y medianas empresas del mundo. Sin embargo, a raíz de este aumento de los datos, las herramientas clásicas para analizarlos, se han quedado inutilizadas al no tener la capacidad de manejarlos. Por tanto, existe la necesidad de diseñar nuevas herramientas que sean capaces de abordar el conocido problema del \textit{BigData}. 
+
+Una vez conseguido manejar y controlar de manera eficiente la información, hay que considerar que los datos en sí, pueden no aclarar su significado realmente. Las representaciones gráficas de los mismos, ayudan a entender su comportamiento de una forma sencilla, incluso para aquellos que no tengan el suficiente conocimiento de análisis. Algunos de los gráficos clásicos como el histograma, el diagrama de cajas o bigotes, o el diagrama de puntos, son básicos en las herramientas de exploración de datos. El límite está, como se ha explicado anteriormente, que son herramientas que no están preparadas para procesar un gran volumen de datos. Por ello, es necesario el diseño de una herramienta que sea capaz de extrapolar la visualización de los datos para una enorme cantidad de datos.
+
+\section{Objetivos}
+El objetivo principal de este proyecto es crear una biblioteca capaz de generar representaciones gráficas a partir de grandes conjuntos de datos, conocidos como 'Big Data'. Para conseguirlo, se ha desglosado en varios objetivos distintos:
+\begin{itemize}
+	\item Crear una biblioteca que, dados unos datos de entrada de tipo 'Big Data', sea capaz de procesar tal cantidad de información, para obtener como resultado variables o datos que necesita cada uno de los gráficos para su representación, como pueden ser valores máximos o mínimos del conjunto de datos, cuartiles, medias, agrupaciones de variables discretas, etc. La complejidad de este objetivo es obtener estos valores a partir de datos que superan fácilmente el millón de registros.
+	\item Dotar a la herramienta de una API RESTful, que permite obtener información de cada una de las funciones que se han implementado, con la posibilidad de ejecutarlas de forma individual.
+	\item Construir una interfaz web que permita el acceso y la utilización de la herramienta de manera sencilla, eficaz y accesible desde cualquier plataforma o dispositivo.
+\end{itemize}
+
+\section{Estructura del documento}
+
+La estructura que sigue este documento se basa en explicar por apartados cada uno de los pasos y procedimientos que sigue la API diseñada. 
+
+En el apartado número 2 del índice se habla sobre la situación en la que se encuentra la computación en Big Data ahora mismo, se explican las herramientas principales para construir la API, como \textit{Hadoop} o \textit{Spark}, y también se habla sobre la visualización de los datos aplicada a la gran cantidad de datos y el proceso que conlleva para obtener un gráfico sencillo de interpretar a partir de toda esa información. 
+
+En el siguiente apartado, se desarrollan la planificación que se han seguido para crear la API, la metodología y los distintos lenguajes de programación que se han implementado.
+
+En los apartados 4 y 5 del documento, se habla de las especificaciones técnicas de la aplicación, requisitos funcionales y no funcionales, y sobre el diseño del sistema, explicando su arquitectura, la conexión entre los distintos módulos, etc.
+
+En el sexto módulo, se explican cada uno de los métodos de visualización que se han empleado, el procedimiento en cada uno de ellos para resumir la información entrante, y obteniendo un resultado que realmente refleje el comportamiento de los datos.
+
+Por último, hay un apartado de conclusiones donde se explica cuales de los objetivos principales se han conseguido lograr o la finalidad de la API.

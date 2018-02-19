@@ -1,0 +1,1535 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.6)  12 SEP 2017 12:16
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("D:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks18
+\lst@length=\count92
+\lst@currlwidth=\dimen106
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen109
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen110
+\extrarowheight=\dimen111
+\NC@list=\toks19
+\extratabsurround=\skip43
+\backup@length=\skip44
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks20
+\minrowclearance=\skip45
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count99
+\LTcapwidth=\dimen112
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count100
+\LT@rows=\count101
+\c@LT@tables=\count102
+\c@LT@chunks=\count103
+\LT@p@ftn=\toks21
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks22
+\footnotemargin=\dimen113
+\c@pp@next@reset=\count104
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2017/07/14 v0.5j Insert pages of external PDF documents (AM)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen114
+\calc@Bdimen=\dimen115
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count107
+\calc@Cskip=\skip61
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)))
+\AM@pagewidth=\dimen116
+\AM@pageheight=\dimen117
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2017/07/14 v0.5j Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@global@opts=\toks23
+\AM@toc@title=\toks24
+\c@AM@survey=\count108
+\AM@templatesizebox=\box33
+) (main.aux
+(portada/portada.aux)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ (prefacio/prefacio.aux) (capitulos/01_Introduccion.aux)
+(capitulos/02_ComputacionBigData.aux) (capitulos/03_IngenieriaSoftware.aux)
+(capitulos/04_EspecificacionRequisitos.aux) (capitulos/05_DisenoSistema.aux)
+(capitulos/06_MetodosVisualizacion.aux) (capitulos/07_Conclusiones.aux)
+(capitulos/A_ListadoFunciones.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+
+("D:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen118
+\scratchbox=\box34
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen119
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks26
+) ("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count115
+\AtBeginShipoutBox=\box35
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+("D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+\openout2 = `./portada/portada.aux'.
+
+
+(portada/portada.tex
+\centeroffset=\skip62
+ <imagenes/logo_ugr.jpg, id=1, 777.90625pt x 231.86626pt>
+File: imagenes/logo_ugr.jpg Graphic file (type jpg)
+
+<use imagenes/logo_ugr.jpg>
+Package pdftex.def Info: imagenes/logo_ugr.jpg used on input line 11.
+(pdftex.def)             Requested size: 323.9978pt x 96.57295pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 8--23
+| $[]$ 
+ []
+
+<imagenes/etsiit_logo.png, id=2, 110.814pt x 40.4712pt>
+File: imagenes/etsiit_logo.png Graphic file (type png)
+
+<use imagenes/etsiit_logo.png>
+Package pdftex.def Info: imagenes/etsiit_logo.png used on input line 32.
+(pdftex.def)             Requested size: 108.0011pt x 39.44412pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 25--39
+| $[]$ 
+ []
+
+[1
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./imagenes/logo_ugr.jpg> 
+<./imagenes/etsiit_logo.png>])
+\openout2 = `./prefacio/prefacio.aux'.
+
+ (prefacio/prefacio.tex [2
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[3] [4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[5] [6
+
+]) [7] [8
+
+
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [9]
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [10]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [11])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [12]
+\openout2 = `./capitulos/01_Introduccion.aux'.
+
+ (capitulos/01_Introduccion.tex
+Cap\'{\i }tulo 1.
+[13
+
+
+]
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [14])
+LaTeX Info: Redefining \. on input line 92.
+LaTeX Info: Redefining \% on input line 92.
+ [15]
+\openout2 = `./capitulos/02_ComputacionBigData.aux'.
+
+ (capitulos/02_ComputacionBigData.tex [16
+
+
+
+]
+Cap\'{\i }tulo 2.
+[17]
+Overfull \hbox (3.8142pt too wide) in paragraph at lines 14--15
+[]\OT1/cmr/m/n/10.95 Volumen: Los meto-dos se desa-rro-llan pa-ra tra-ba-jar c
+on gran-des volume-
+ []
+
+<imagenes/Como_funciona_MapReduce.jpeg, id=65, 795.9336pt x 449.0376pt>
+File: imagenes/Como_funciona_MapReduce.jpeg Graphic file (type jpg)
+
+<use imagenes/Como_funciona_MapReduce.jpeg>
+Package pdftex.def Info: imagenes/Como_funciona_MapReduce.jpeg used on input li
+ne 26.
+(pdftex.def)             Requested size: 360.0pt x 203.09966pt.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [18]
+<imagenes/Flujo_de_datos_en_MapReduce.jpeg, id=69, 533.8344pt x 298.716pt>
+File: imagenes/Flujo_de_datos_en_MapReduce.jpeg Graphic file (type jpg)
+
+<use imagenes/Flujo_de_datos_en_MapReduce.jpeg>
+Package pdftex.def Info: imagenes/Flujo_de_datos_en_MapReduce.jpeg used on inpu
+t line 36.
+(pdftex.def)             Requested size: 360.0pt x 201.45139pt.
+
+<imagenes/hadoop_logo.png, id=70, 1003.75pt x 259.97125pt>
+File: imagenes/hadoop_logo.png Graphic file (type png)
+
+<use imagenes/hadoop_logo.png>
+Package pdftex.def Info: imagenes/hadoop_logo.png used on input line 46.
+(pdftex.def)             Requested size: 143.9978pt x 37.29222pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 44--48
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+[19 <./imagenes/Como_funciona_MapReduce.jpeg> <./imagenes/hadoop_logo.png>]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+
+[20 <./imagenes/Flujo_de_datos_en_MapReduce.jpeg>]
+<imagenes/hdfs_estructura.png, id=79, 686.565pt x 453.19313pt>
+File: imagenes/hdfs_estructura.png Graphic file (type png)
+
+<use imagenes/hdfs_estructura.png>
+Package pdftex.def Info: imagenes/hdfs_estructura.png used on input line 71.
+(pdftex.def)             Requested size: 360.0pt x 237.62569pt.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [21]
+<imagenes/spark_logo.png, id=83, 377.41pt x 200.75pt>
+File: imagenes/spark_logo.png Graphic file (type png)
+
+<use imagenes/spark_logo.png>
+Package pdftex.def Info: imagenes/spark_logo.png used on input line 83.
+(pdftex.def)             Requested size: 108.0011pt x 57.44714pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 81--85
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
+[22 <./imagenes/hdfs_estructura.png> <./imagenes/spark_logo.png>]
+<imagenes/spark_estructura.png, id=89, 485.56406pt x 236.38312pt>
+File: imagenes/spark_estructura.png Graphic file (type png)
+
+<use imagenes/spark_estructura.png>
+Package pdftex.def Info: imagenes/spark_estructura.png used on input line 98.
+(pdftex.def)             Requested size: 360.0pt x 175.2526pt.
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [23 <./imagenes/spark_estructura.png>]
+<imagenes/spark_rdd.png, id=94, 913.4125pt x 436.63126pt>
+File: imagenes/spark_rdd.png Graphic file (type png)
+
+<use imagenes/spark_rdd.png>
+Package pdftex.def Info: imagenes/spark_rdd.png used on input line 114.
+(pdftex.def)             Requested size: 360.0pt x 172.08437pt.
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
+ [24 <./imagenes/spark_rdd.png>]
+<imagenes/mongoDB_logo.png, id=99, 1027.84pt x 279.0425pt>
+File: imagenes/mongoDB_logo.png Graphic file (type png)
+
+<use imagenes/mongoDB_logo.png>
+Package pdftex.def Info: imagenes/mongoDB_logo.png used on input line 125.
+(pdftex.def)             Requested size: 143.9978pt x 39.09122pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 123--127
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 139.
+LaTeX Info: Redefining \% on input line 139.
+[25 <./imagenes/mongoDB_logo.png>]
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+ [26]
+LaTeX Info: Redefining \. on input line 162.
+LaTeX Info: Redefining \% on input line 162.
+ [27])
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+ [28]
+\openout2 = `./capitulos/03_IngenieriaSoftware.aux'.
+
+
+(capitulos/03_IngenieriaSoftware.tex
+Cap\'{\i }tulo 3.
+<imagenes/modelo_incremental.jpeg, id=114, 725.71124pt x 282.30469pt>
+File: imagenes/modelo_incremental.jpeg Graphic file (type jpg)
+
+<use imagenes/modelo_incremental.jpeg>
+Package pdftex.def Info: imagenes/modelo_incremental.jpeg used on input line 9.
+
+(pdftex.def)             Requested size: 360.0pt x 140.04492pt.
+ [29
+
+
+
+ <./imagenes/modelo_incremental.jpeg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [30]
+<imagenes/scala_logo.jpg, id=121, 803.0pt x 237.88875pt>
+File: imagenes/scala_logo.jpg Graphic file (type jpg)
+
+<use imagenes/scala_logo.jpg>
+Package pdftex.def Info: imagenes/scala_logo.jpg used on input line 35.
+(pdftex.def)             Requested size: 108.0011pt x 31.9938pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 33--37
+[]$[]$ 
+ []
+
+<imagenes/nodejs_logo.png, id=122, 562.1pt x 192.72pt>
+File: imagenes/nodejs_logo.png Graphic file (type png)
+
+<use imagenes/nodejs_logo.png>
+Package pdftex.def Info: imagenes/nodejs_logo.png used on input line 50.
+(pdftex.def)             Requested size: 143.9978pt x 49.37083pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 48--52
+[]$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
+ [31 <./imagenes/scala_logo.jpg>]
+<imagenes/NodeJS_Event_Loop.jpg, id=127, 640.3925pt x 480.79625pt>
+File: imagenes/NodeJS_Event_Loop.jpg Graphic file (type jpg)
+
+<use imagenes/NodeJS_Event_Loop.jpg>
+Package pdftex.def Info: imagenes/NodeJS_Event_Loop.jpg used on input line 59.
+(pdftex.def)             Requested size: 323.9978pt x 243.25136pt.
+
+<imagenes/d3js_logo.png, id=128, 814.04124pt x 126.4725pt>
+File: imagenes/d3js_logo.png Graphic file (type png)
+
+<use imagenes/d3js_logo.png>
+Package pdftex.def Info: imagenes/d3js_logo.png used on input line 70.
+(pdftex.def)             Requested size: 180.0pt x 27.9649pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 68--72
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+[32 <./imagenes/nodejs_logo.png> <./imagenes/d3js_logo.png>]
+<imagenes/HTML5_CSS_JavaScript_logo.png, id=133, 1027.84pt x 602.25pt>
+File: imagenes/HTML5_CSS_JavaScript_logo.png Graphic file (type png)
+
+<use imagenes/HTML5_CSS_JavaScript_logo.png>
+Package pdftex.def Info: imagenes/HTML5_CSS_JavaScript_logo.png used on input l
+ine 80.
+(pdftex.def)             Requested size: 108.0011pt x 63.27946pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 78--82
+[]$[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [33 <./imagenes/NodeJS_Event_Loop.jpg>]
+<imagenes/github_logo.png, id=137, 269.50688pt x 101.62968pt>
+File: imagenes/github_logo.png Graphic file (type png)
+
+<use imagenes/github_logo.png>
+Package pdftex.def Info: imagenes/github_logo.png used on input line 92.
+(pdftex.def)             Requested size: 143.9978pt x 54.30077pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 90--94
+[]$[]$ 
+ []
+
+<imagenes/docker_logo.png, id=138, 794.97pt x 269.3262pt>
+File: imagenes/docker_logo.png Graphic file (type png)
+
+<use imagenes/docker_logo.png>
+Package pdftex.def Info: imagenes/docker_logo.png used on input line 102.
+(pdftex.def)             Requested size: 143.9978pt x 48.78484pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 100--104
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+[34 <./imagenes/HTML5_CSS_JavaScript_logo.png> <./imagenes/github_logo.png>]
+<imagenes/lucidchart_logo.png, id=144, 676.2063pt x 133.4586pt>
+File: imagenes/lucidchart_logo.png Graphic file (type png)
+
+<use imagenes/lucidchart_logo.png>
+Package pdftex.def Info: imagenes/lucidchart_logo.png used on input line 111.
+(pdftex.def)             Requested size: 143.9978pt x 28.41812pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 109--113
+[]$[]$ 
+ []
+
+<imagenes/latex_logo.png, id=145, 602.25pt x 250.9375pt>
+File: imagenes/latex_logo.png Graphic file (type png)
+
+<use imagenes/latex_logo.png>
+Package pdftex.def Info: imagenes/latex_logo.png used on input line 121.
+(pdftex.def)             Requested size: 108.0011pt x 44.99832pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 119--123
+[]$[]$ 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+ [35 <./imagenes/docker_logo.png> <./imagenes/lucidchart_logo.png> <./imagenes/
+latex_logo.png>]
+\openout2 = `./capitulos/04_EspecificacionRequisitos.aux'.
+
+ (capitulos/04_EspecificacionRequisitos.tex [36
+
+
+
+]
+Cap\'{\i }tulo 4.
+[37]
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [38] <imagenes/interfaz_inicial.png, id=162, 1445.4pt x 800.9925pt>
+File: imagenes/interfaz_inicial.png Graphic file (type png)
+
+<use imagenes/interfaz_inicial.png>
+Package pdftex.def Info: imagenes/interfaz_inicial.png used on input line 42.
+(pdftex.def)             Requested size: 360.0pt x 199.50208pt.
+
+<imagenes/boton_about.png, id=163, 1445.4pt x 794.97pt>
+File: imagenes/boton_about.png Graphic file (type png)
+
+<use imagenes/boton_about.png>
+Package pdftex.def Info: imagenes/boton_about.png used on input line 48.
+(pdftex.def)             Requested size: 360.0pt x 198.00206pt.
+
+<imagenes/lista_ultimos_graficos.png, id=164, 1445.4pt x 627.84563pt>
+File: imagenes/lista_ultimos_graficos.png Graphic file (type png)
+
+<use imagenes/lista_ultimos_graficos.png>
+Package pdftex.def Info: imagenes/lista_ultimos_graficos.png used on input line
+ 54.
+(pdftex.def)             Requested size: 360.0pt x 156.37663pt.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [39]
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [40 <./imagenes/interfaz_inicial.png> <./imagenes/boton_about.png>]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [41 <./imagenes/lista_ultimos_graficos.png>]
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+ [42] <imagenes/swagger_funciones.png, id=180, 901.86937pt x 761.09344pt>
+File: imagenes/swagger_funciones.png Graphic file (type png)
+
+<use imagenes/swagger_funciones.png>
+Package pdftex.def Info: imagenes/swagger_funciones.png used on input line 88.
+(pdftex.def)             Requested size: 360.0pt x 303.80487pt.
+
+<imagenes/swagger_histograma.png, id=181, 873.2625pt x 660.96938pt>
+File: imagenes/swagger_histograma.png Graphic file (type png)
+
+<use imagenes/swagger_histograma.png>
+Package pdftex.def Info: imagenes/swagger_histograma.png used on input line 94.
+
+(pdftex.def)             Requested size: 360.0pt x 272.48177pt.
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+ [43 <./imagenes/swagger_funciones.png>]
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+
+[44 <./imagenes/swagger_histograma.png>]
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [45]
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+ [46])
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+ [47]
+\openout2 = `./capitulos/05_DisenoSistema.aux'.
+
+
+(capitulos/05_DisenoSistema.tex [48
+
+
+
+]
+Cap\'{\i }tulo 5.
+<imagenes/Arquitectura_del_sistema.jpeg, id=203, 557.9244pt x 466.3824pt>
+File: imagenes/Arquitectura_del_sistema.jpeg Graphic file (type jpg)
+
+<use imagenes/Arquitectura_del_sistema.jpeg>
+Package pdftex.def Info: imagenes/Arquitectura_del_sistema.jpeg used on input l
+ine 8.
+(pdftex.def)             Requested size: 360.0pt x 300.93887pt.
+ [49]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [50 <./imagenes/Arquitectura_del_sistema.jpeg>]
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [51]
+<imagenes/Conexion_Hadoop_Spark.jpeg, id=214, 552.1428pt x 212.9556pt>
+File: imagenes/Conexion_Hadoop_Spark.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_Hadoop_Spark.jpeg>
+Package pdftex.def Info: imagenes/Conexion_Hadoop_Spark.jpeg used on input line
+ 28.
+(pdftex.def)             Requested size: 360.0pt x 138.85165pt.
+
+<imagenes/Conexion_Spark_MongoDB.jpeg, id=215, 561.7788pt x 215.8464pt>
+File: imagenes/Conexion_Spark_MongoDB.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_Spark_MongoDB.jpeg>
+Package pdftex.def Info: imagenes/Conexion_Spark_MongoDB.jpeg used on input lin
+e 38.
+(pdftex.def)             Requested size: 360.0pt x 138.32565pt.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [52 <./imagenes/Conexion_Hadoop_Spark.jpeg> <./imagenes/Conexion_Spark_MongoDB
+.jpeg>]
+<imagenes/Conexion_NodeJS_Hadoop.jpeg, id=219, 561.7788pt x 340.1508pt>
+File: imagenes/Conexion_NodeJS_Hadoop.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_NodeJS_Hadoop.jpeg>
+Package pdftex.def Info: imagenes/Conexion_NodeJS_Hadoop.jpeg used on input lin
+e 50.
+(pdftex.def)             Requested size: 360.0pt x 217.98642pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [53 <./imagenes/Conexion_NodeJS_Hadoop.jpeg>]
+<imagenes/Conexion_NodeJS_Spark.jpeg, id=223, 559.8516pt x 337.7418pt>
+File: imagenes/Conexion_NodeJS_Spark.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_NodeJS_Spark.jpeg>
+Package pdftex.def Info: imagenes/Conexion_NodeJS_Spark.jpeg used on input line
+ 62.
+(pdftex.def)             Requested size: 360.0pt x 217.17957pt.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [54 <./imagenes/Conexion_NodeJS_Spark.jpeg>]
+<imagenes/Conexion_NodeJS_MongoDB.jpeg, id=227, 554.5518pt x 339.669pt>
+File: imagenes/Conexion_NodeJS_MongoDB.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_NodeJS_MongoDB.jpeg>
+Package pdftex.def Info: imagenes/Conexion_NodeJS_MongoDB.jpeg used on input li
+ne 77.
+(pdftex.def)             Requested size: 360.0pt x 220.50754pt.
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+ [55 <./imagenes/Conexion_NodeJS_MongoDB.jpeg>]
+<imagenes/Conexion_Interfaz_NodeJS.jpeg, id=232, 551.661pt x 340.6326pt>
+File: imagenes/Conexion_Interfaz_NodeJS.jpeg Graphic file (type jpg)
+
+<use imagenes/Conexion_Interfaz_NodeJS.jpeg>
+Package pdftex.def Info: imagenes/Conexion_Interfaz_NodeJS.jpeg used on input l
+ine 98.
+(pdftex.def)             Requested size: 360.0pt x 222.28696pt.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+ [56]
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+ [57 <./imagenes/Conexion_Interfaz_NodeJS.jpeg>]
+<imagenes/Listar_archivos_del_HDFS.jpeg, id=239, 565.6332pt x 476.0184pt>
+File: imagenes/Listar_archivos_del_HDFS.jpeg Graphic file (type jpg)
+
+<use imagenes/Listar_archivos_del_HDFS.jpeg>
+Package pdftex.def Info: imagenes/Listar_archivos_del_HDFS.jpeg used on input l
+ine 117.
+(pdftex.def)             Requested size: 360.0pt x 302.9656pt.
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
+ [58 <./imagenes/Listar_archivos_del_HDFS.jpeg>]
+<imagenes/Proceso_ya_ejecutado_previamente.jpeg, id=243, 565.6332pt x 475.0548p
+t>
+File: imagenes/Proceso_ya_ejecutado_previamente.jpeg Graphic file (type jpg)
+ <use imagenes/Proceso_ya_ejecutado_previamente.jpeg>
+Package pdftex.def Info: imagenes/Proceso_ya_ejecutado_previamente.jpeg used on
+ input line 132.
+(pdftex.def)             Requested size: 360.0pt x 302.35233pt.
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+ [59 <./imagenes/Proceso_ya_ejecutado_previamente.jpeg>]
+<imagenes/Ejecucion_de_un_proceso.jpeg, id=247, 771.8436pt x 467.346pt>
+File: imagenes/Ejecucion_de_un_proceso.jpeg Graphic file (type jpg)
+
+<use imagenes/Ejecucion_de_un_proceso.jpeg>
+Package pdftex.def Info: imagenes/Ejecucion_de_un_proceso.jpeg used on input li
+ne 141.
+(pdftex.def)             Requested size: 360.0pt x 217.98396pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 156.
+LaTeX Info: Redefining \% on input line 156.
+ [60 <./imagenes/Ejecucion_de_un_proceso.jpeg>]
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+ [61]
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+ [62]
+LaTeX Info: Redefining \. on input line 223.
+LaTeX Info: Redefining \% on input line 223.
+ [63])
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+ [64]
+\openout2 = `./capitulos/06_MetodosVisualizacion.aux'.
+
+
+(capitulos/06_MetodosVisualizacion.tex
+Cap\'{\i }tulo 6.
+[65
+
+
+
+]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [66]
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 35--35
+[]\OT1/cmtt/m/n/10.95 (Maximo { Mnimo) / Numero de segmentos = Amplitud de 
+cada segmento[] 
+ []
+
+<imagenes/ejemplo_histograma.png, id=271, 1154.81438pt x 596.2275pt>
+File: imagenes/ejemplo_histograma.png Graphic file (type png)
+
+<use imagenes/ejemplo_histograma.png>
+Package pdftex.def Info: imagenes/ejemplo_histograma.png used on input line 42.
+
+(pdftex.def)             Requested size: 360.0pt x 185.86575pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 71.
+
+Underfull \vbox (badness 1448) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [67 <./imagenes/ejemplo_histograma.png>]
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+ [68]
+<imagenes/ejemplo_boxplot.png, id=283, 1166.10657pt x 594.72188pt>
+File: imagenes/ejemplo_boxplot.png Graphic file (type png)
+
+<use imagenes/ejemplo_boxplot.png>
+Package pdftex.def Info: imagenes/ejemplo_boxplot.png used on input line 89.
+(pdftex.def)             Requested size: 360.0pt x 183.5996pt.
+
+Overfull \hbox (22.82736pt too wide) in paragraph at lines 96--117
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+[69 <./imagenes/ejemplo_boxplot.png>]
+Overfull \hbox (23.7937pt too wide) in paragraph at lines 131--131
+ []\OT1/cmtt/m/n/10.95 Tama~no de la seccion = (Maximo { Mnimo) / Numero d
+e secciones[] 
+ []
+
+
+Overfull \hbox (0.79895pt too wide) in paragraph at lines 135--135
+ []\OT1/cmtt/m/n/10.95 Valor absoluto ((valor X - Mnimo) / Tama~no de la secc
+ion)[] 
+ []
+
+<imagenes/ejemplo_scatterplot.png, id=288, 1157.07281pt x 519.44063pt>
+File: imagenes/ejemplo_scatterplot.png Graphic file (type png)
+
+<use imagenes/ejemplo_scatterplot.png>
+Package pdftex.def Info: imagenes/ejemplo_scatterplot.png used on input line 14
+3.
+(pdftex.def)             Requested size: 360.0pt x 161.61145pt.
+
+Overfull \hbox (64.58739pt too wide) in paragraph at lines 176--176
+[][]\OT1/cmr/m/n/9 /scatterplot?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.c
+sv&colx=f3&coly=f4&secx=10&secy=10| 
+ []
+
+LaTeX Info: Redefining \. on input line 178.
+LaTeX Info: Redefining \% on input line 178.
+[70]
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+ [71 <./imagenes/ejemplo_scatterplot.png>]
+<imagenes/ejemplo_heatmap.png, id=296, 1172.12906pt x 424.58624pt>
+File: imagenes/ejemplo_heatmap.png Graphic file (type png)
+
+<use imagenes/ejemplo_heatmap.png>
+Package pdftex.def Info: imagenes/ejemplo_heatmap.png used on input line 186.
+(pdftex.def)             Requested size: 360.0pt x 130.40239pt.
+
+Overfull \hbox (75.70953pt too wide) in paragraph at lines 219--219
+[][]\OT1/cmr/m/n/9 /heatmap?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.csv&c
+olx=f3&coly=f4&colCount=f5&opVal=0| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 221.
+LaTeX Info: Redefining \% on input line 221.
+ [72 <./imagenes/ejemplo_heatmap.png>]
+<imagenes/ejemplo_bubblechart.png, id=301, 1157.07281pt x 523.9575pt>
+File: imagenes/ejemplo_bubblechart.png Graphic file (type png)
+
+<use imagenes/ejemplo_bubblechart.png>
+Package pdftex.def Info: imagenes/ejemplo_bubblechart.png used on input line 22
+9.
+(pdftex.def)             Requested size: 360.0pt x 163.01677pt.
+
+Overfull \hbox (69.41791pt too wide) in paragraph at lines 262--262
+[][]\OT1/cmr/m/n/9 /bubblechart?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.c
+sv&colx=f3&coly=f4&secx=10&secy=10| 
+ []
+
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
+[73]
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
+ [74 <./imagenes/ejemplo_bubblechart.png>]
+<imagenes/ejemplo_scatterplotMatrix.png, id=310, 1346.02875pt x 1011.78pt>
+File: imagenes/ejemplo_scatterplotMatrix.png Graphic file (type png)
+
+<use imagenes/ejemplo_scatterplotMatrix.png>
+Package pdftex.def Info: imagenes/ejemplo_scatterplotMatrix.png used on input l
+ine 270.
+(pdftex.def)             Requested size: 360.0pt x 270.60602pt.
+
+Overfull \hbox (22.82736pt too wide) in paragraph at lines 277--300
+[][] 
+ []
+
+
+Overfull \hbox (50.93399pt too wide) in paragraph at lines 301--301
+[][]\OT1/cmr/m/n/9 /scatterplotMatrix?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]1
+0tst.csv&sec=5&count=2&col=f3,f4| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 303.
+LaTeX Info: Redefining \% on input line 303.
+ [75 <./imagenes/ejemplo_scatterplotMatrix.png>]
+<imagenes/ejemplo_piechart.png, id=314, 1163.84813pt x 674.52pt>
+File: imagenes/ejemplo_piechart.png Graphic file (type png)
+
+<use imagenes/ejemplo_piechart.png>
+Package pdftex.def Info: imagenes/ejemplo_piechart.png used on input line 311.
+(pdftex.def)             Requested size: 360.0pt x 208.63588pt.
+LaTeX Info: Redefining \. on input line 318.
+LaTeX Info: Redefining \% on input line 318.
+ [76]
+Overfull \hbox (63.4075pt too wide) in paragraph at lines 342--342
+[][]\OT1/cmr/m/n/9 /piechart?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.csv&
+colSelected=f3&colCount=f4&opVal=0| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 346.
+LaTeX Info: Redefining \% on input line 346.
+ [77 <./imagenes/ejemplo_piechart.png>]
+<imagenes/ejemplo_linechart.png, id=322, 1160.83687pt x 557.08125pt>
+File: imagenes/ejemplo_linechart.png Graphic file (type png)
+
+<use imagenes/ejemplo_linechart.png>
+Package pdftex.def Info: imagenes/ejemplo_linechart.png used on input line 352.
+
+(pdftex.def)             Requested size: 360.0pt x 172.7614pt.
+
+Overfull \hbox (22.82736pt too wide) in paragraph at lines 359--384
+[][] 
+ []
+
+
+Overfull \hbox (59.85477pt too wide) in paragraph at lines 385--385
+[][]\OT1/cmr/m/n/9 /linechart?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.csv
+&sec=10&colX=f3&count=2&col=f4,f5| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 387.
+LaTeX Info: Redefining \% on input line 387.
+ [78 <./imagenes/ejemplo_linechart.png>]
+<imagenes/ejemplo_stackedareachart.png, id=327, 1154.81438pt x 577.40718pt>
+File: imagenes/ejemplo_stackedareachart.png Graphic file (type png)
+
+<use imagenes/ejemplo_stackedareachart.png>
+Package pdftex.def Info: imagenes/ejemplo_stackedareachart.png used on input li
+ne 394.
+(pdftex.def)             Requested size: 360.0pt x 179.99878pt.
+
+Overfull \hbox (22.82736pt too wide) in paragraph at lines 401--426
+[][] 
+ []
+
+
+Overfull \hbox (97.18575pt too wide) in paragraph at lines 427--427
+[][]\OT1/cmr/m/n/9 /stackedAreaChart?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10
+tst.csv&sec=10&colX=f3&count=2&col=f4,f5| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 429.
+LaTeX Info: Redefining \% on input line 429.
+ [79]
+LaTeX Info: Redefining \. on input line 431.
+LaTeX Info: Redefining \% on input line 431.
+
+[80 <./imagenes/ejemplo_stackedareachart.png>]
+<imagenes/ejemplo_barchart.png, id=336, 1153.30875pt x 632.3625pt>
+File: imagenes/ejemplo_barchart.png Graphic file (type png)
+
+<use imagenes/ejemplo_barchart.png>
+Package pdftex.def Info: imagenes/ejemplo_barchart.png used on input line 435.
+(pdftex.def)             Requested size: 360.0pt x 197.39087pt.
+
+Overfull \hbox (64.96652pt too wide) in paragraph at lines 466--466
+[][]\OT1/cmr/m/n/9 /barchart?file=$ $%2FtestData$ $%2F1000[]ECBDL14[]10tst.csv&
+colSelected=f3&colCount=f4&opVal=0| 
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [81 <./imagenes/ejemplo_barchart.png>]
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [82]
+\openout2 = `./capitulos/07_Conclusiones.aux'.
+
+ (capitulos/07_Conclusiones.tex
+Cap\'{\i }tulo 7.
+[83
+
+
+
+]) [84]
+\openout2 = `./capitulos/A_ListadoFunciones.aux'.
+
+ (capitulos/A_ListadoFunciones.tex
+Ap\'{e}ndice A.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85
+
+
+
+]
+[86] (main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [87
+
+
+])
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+ [88] (main.bbl [89
+
+
+]
+Underfull \hbox (badness 1824) in paragraph at lines 66--70
+[]\OT1/cmr/m/n/10.95 Tavo (2011). Anali-sis y di-se~no de sis-te-mas - Mo-de-l
+os pa-ra el
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 66--70
+\OT1/cmr/m/n/10.95 desa-rro-llo de soft-wa-re. Re-cu-pe-ra-do de.  $\OT1/cmtt/m
+/n/10.95 http : / / osc . co . cr /
+ []
+
+
+Overfull \hbox (67.20949pt too wide) in paragraph at lines 66--70
+\OT1/cmtt/m/n/10.95 analisis-[]y-[]diseno-[]de-[]sistemas-[]modelos-[]para-[]el
+-[]desarrollo-[]de-[]software/$\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 105--107
+[]\OT1/cmr/m/n/10.95 TeXstudio Web Si-te (sin fe-cha). Re-cu-pe-ra-do de.  $\OT
+1/cmtt/m/n/10.95 http : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+[]\OT1/cmr/m/n/10.95 Hadoop WebHDFS REST API (2017). Re-cu-pe-ra-do de.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+\OT1/cmtt/m/n/10.95 https : / / hadoop . apache . org / docs / stable / hadoop-
+[]project-[]dist /
+ []
+
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+[90])
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+ [91] (main.aux (portada/portada.aux)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ (prefacio/prefacio.aux)
+(capitulos/01_Introduccion.aux) (capitulos/02_ComputacionBigData.aux)
+(capitulos/03_IngenieriaSoftware.aux)
+(capitulos/04_EspecificacionRequisitos.aux) (capitulos/05_DisenoSistema.aux)
+(capitulos/06_MetodosVisualizacion.aux) (capitulos/07_Conclusiones.aux)
+(capitulos/A_ListadoFunciones.aux)) ) 
+Here is how much of TeX's memory you used:
+ 5906 strings out of 493323
+ 86879 string characters out of 3139047
+ 162256 words of memory out of 3000000
+ 9211 multiletter control sequences out of 15000+200000
+ 11496 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,13n,43p,1238b,698s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbxti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (91 pages, 5054542 bytes).
+PDF statistics:
+ 408 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+

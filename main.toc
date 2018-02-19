@@ -1,0 +1,72 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{13}
+\contentsline {section}{\numberline {1.1}Motivaci\IeC {\'o}n}{13}
+\contentsline {section}{\numberline {1.2}Objetivos}{14}
+\contentsline {section}{\numberline {1.3}Estructura del documento}{14}
+\contentsline {chapter}{\numberline {2}Computaci\IeC {\'o}n en BigData y Visualizaci\IeC {\'o}n de Datos}{17}
+\contentsline {section}{\numberline {2.1}BigData}{17}
+\contentsline {section}{\numberline {2.2}MapReduce}{18}
+\contentsline {section}{\numberline {2.3}Hadoop}{19}
+\contentsline {section}{\numberline {2.4}Spark}{22}
+\contentsline {section}{\numberline {2.5}MongoDB}{25}
+\contentsline {section}{\numberline {2.6}Visualizaci\IeC {\'o}n de Datos}{26}
+\contentsline {subsection}{\numberline {2.6.1}T\IeC {\'e}cnicas de reducci\IeC {\'o}n de datos}{26}
+\contentsline {subsection}{\numberline {2.6.2}Elecci\IeC {\'o}n de esquema de agrupaci\IeC {\'o}n}{27}
+\contentsline {subsection}{\numberline {2.6.3}Agregaci\IeC {\'o}n de los datos}{27}
+\contentsline {subsection}{\numberline {2.6.4}Suavizado de los datos}{27}
+\contentsline {subsection}{\numberline {2.6.5}Visualizado de los datos}{27}
+\contentsline {chapter}{\numberline {3}Ingenier\IeC {\'\i }a del Software y Herramientas}{29}
+\contentsline {section}{\numberline {3.1}Metodolog\IeC {\'\i }a de Ingenier\IeC {\'\i }a del Software}{29}
+\contentsline {section}{\numberline {3.2}Planificaci\IeC {\'o}n}{30}
+\contentsline {section}{\numberline {3.3}Lenguajes de Programaci\IeC {\'o}n y Herramientas}{31}
+\contentsline {subsection}{\numberline {3.3.1}Scala}{31}
+\contentsline {subsection}{\numberline {3.3.2}NodeJS}{32}
+\contentsline {subsection}{\numberline {3.3.3}D3JS}{32}
+\contentsline {subsection}{\numberline {3.3.4}HTML, CSS y Javascript}{34}
+\contentsline {subsection}{\numberline {3.3.5}GitHub}{34}
+\contentsline {subsection}{\numberline {3.3.6}Docker}{35}
+\contentsline {subsection}{\numberline {3.3.7}Lucidchart}{35}
+\contentsline {subsection}{\numberline {3.3.8}LaTeX}{35}
+\contentsline {chapter}{\numberline {4}Especificaci\IeC {\'o}n de Requisitos Funcionales y No Funcionales}{37}
+\contentsline {section}{\numberline {4.1}Requisitos funcionales}{37}
+\contentsline {subsection}{\numberline {4.1.1}Requisitos funcionales de c\IeC {\'o}mputo (Nivel inferior)}{37}
+\contentsline {subsection}{\numberline {4.1.2}Requisitos funcionales de comunicaci\IeC {\'o}n (Nivel intermedio)}{38}
+\contentsline {subsection}{\numberline {4.1.3}Requisitos funcionales de la interfaz gr\IeC {\'a}fica (Nivel superior)}{39}
+\contentsline {section}{\numberline {4.2}Requisitos no funcionales}{45}
+\contentsline {subsection}{\numberline {4.2.1}Eficiencia}{45}
+\contentsline {subsection}{\numberline {4.2.2}Escalabilidad}{45}
+\contentsline {subsection}{\numberline {4.2.3}Seguridad de los datos}{46}
+\contentsline {subsection}{\numberline {4.2.4}Accesibilidad}{46}
+\contentsline {subsection}{\numberline {4.2.5}Requisitos hardware}{46}
+\contentsline {subsection}{\numberline {4.2.6}Versiones}{46}
+\contentsline {chapter}{\numberline {5}Dise\IeC {\~n}o del Sistema}{49}
+\contentsline {section}{\numberline {5.1}Dise\IeC {\~n}o de la arquitectura del sistema}{49}
+\contentsline {section}{\numberline {5.2}Conexi\IeC {\'o}n entre m\IeC {\'o}dulos}{51}
+\contentsline {subsection}{\numberline {5.2.1}Hadoop - Spark}{51}
+\contentsline {subsection}{\numberline {5.2.2}Spark - MongoDB}{52}
+\contentsline {subsection}{\numberline {5.2.3}NodeJS - Hadoop}{53}
+\contentsline {subsection}{\numberline {5.2.4}NodeJS - Spark}{54}
+\contentsline {subsection}{\numberline {5.2.5}NodeJS - MongoDB}{55}
+\contentsline {subsection}{\numberline {5.2.6}NodeJS - D3JS}{56}
+\contentsline {subsection}{\numberline {5.2.7}Interfaz web - NodeJS}{56}
+\contentsline {section}{\numberline {5.3}Flujo de procesamiento}{57}
+\contentsline {subsection}{\numberline {5.3.1}Mostrar el listado de archivos y directorios en el HDFS}{57}
+\contentsline {subsection}{\numberline {5.3.2}Ejecuci\IeC {\'o}n de un proceso seleccionado}{58}
+\contentsline {section}{\numberline {5.4}Instalaci\IeC {\'o}n del sistema de visualizaci\IeC {\'o}n y BigData}{61}
+\contentsline {section}{\numberline {5.5}Compilaci\IeC {\'o}n de los paquetes gr\IeC {\'a}ficos}{62}
+\contentsline {section}{\numberline {5.6}Uso de la biblioteca}{63}
+\contentsline {subsection}{\numberline {5.6.1}API RESTful y documentaci\IeC {\'o}n con Swagger}{64}
+\contentsline {chapter}{\numberline {6}M\IeC {\'e}todos de Visualizaci\IeC {\'o}n Empleados}{65}
+\contentsline {section}{\numberline {6.1}Cuestiones generales sobre la visualizaci\IeC {\'o}n}{66}
+\contentsline {section}{\numberline {6.2}Histograma}{66}
+\contentsline {section}{\numberline {6.3}Boxplot}{68}
+\contentsline {section}{\numberline {6.4}Scatterplot}{70}
+\contentsline {section}{\numberline {6.5}Heatmap}{71}
+\contentsline {section}{\numberline {6.6}Bubble Chart}{73}
+\contentsline {section}{\numberline {6.7}Scatterplot Matrix}{74}
+\contentsline {section}{\numberline {6.8}Pie Chart}{76}
+\contentsline {section}{\numberline {6.9}Line Chart}{78}
+\contentsline {section}{\numberline {6.10}Stacked Area Chart}{79}
+\contentsline {section}{\numberline {6.11}Bar Chart}{80}
+\contentsline {chapter}{\numberline {7}Conclusiones}{83}
+\contentsline {chapter}{\numberline {A}Listado de Funciones de la API}{85}
