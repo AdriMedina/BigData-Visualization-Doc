@@ -9,8 +9,3 @@ Universidad de Granada (2017)
 ## Título: Visualización de Datos en BigData con Spark & Scala.
 
 
-## Resumen del proyecto.
-
-Resumen
-
-
